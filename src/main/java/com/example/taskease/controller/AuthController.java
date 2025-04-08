@@ -1,5 +1,5 @@
 // // In AuthController.java
-// package com.example.taskease.controller;
+package com.example.taskease.controller;
 
 // import com.example.taskease.dto.LoginRequest;
 // import com.example.taskease.dto.RegisterRequest;
